@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+pymupdf
+pdfplumber
+python-dotenv
+vaderSentiment
+scikit-learn
+numpy
+groq
